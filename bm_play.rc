@@ -1,0 +1,295 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Englisch (USA) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\bm_play.rc2""  // Nicht mit Microsoft Visual C++ bearbeitete Ressourcen\r\n"
+    "#include ""afxres.rc""         // Standardkomponenten\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\bm_play.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_BM_PLAY_DIALOG DIALOGEX 0, 0, 303, 286
+STYLE WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU | WS_THICKFRAME
+EXSTYLE WS_EX_APPWINDOW
+MENU IDR_MENU1
+FONT 8, "MS Sans Serif"
+BEGIN
+    CONTROL         131,IDC_WINDOW_0_0,"Static",SS_BITMAP,67,209,8,10
+    CONTROL         131,IDC_WINDOW_0_1,"Static",SS_BITMAP,77,218,8,10
+    CONTROL         131,IDC_WINDOW_0_2,"Static",SS_BITMAP,86,226,8,10
+    CONTROL         131,IDC_WINDOW_0_3,"Static",SS_BITMAP,95,235,8,10
+    CONTROL         131,IDC_WINDOW_0_4,"Static",SS_BITMAP,105,244,8,10
+    CONTROL         131,IDC_WINDOW_0_5,"Static",SS_BITMAP,114,252,8,10
+    CONTROL         131,IDC_WINDOW_0_6,"Static",SS_BITMAP,123,261,8,10
+    CONTROL         131,IDC_WINDOW_0_7,"Static",SS_BITMAP,133,270,8,10
+    CONTROL         131,IDC_WINDOW_0_8,"Static",SS_BITMAP,142,0,8,10
+    CONTROL         131,IDC_WINDOW_0_9,"Static",SS_BITMAP,151,9,8,10
+    CONTROL         131,IDC_WINDOW_0_10,"Static",SS_BITMAP,161,17,8,10
+    CONTROL         131,IDC_WINDOW_0_11,"Static",SS_BITMAP,170,26,8,10
+    CONTROL         131,IDC_WINDOW_0_12,"Static",SS_BITMAP,179,34,8,10
+    CONTROL         131,IDC_WINDOW_0_13,"Static",SS_BITMAP,189,43,8,10
+    CONTROL         131,IDC_WINDOW_0_14,"Static",SS_BITMAP,198,52,8,10
+    CONTROL         131,IDC_WINDOW_0_15,"Static",SS_BITMAP,207,60,8,10
+    CONTROL         131,IDC_WINDOW_0_16,"Static",SS_BITMAP,217,69,8,10
+    CONTROL         131,IDC_WINDOW_0_17,"Static",SS_BITMAP,226,78,8,10
+    CONTROL         131,IDC_WINDOW_0_18,"Static",SS_BITMAP,235,86,8,10
+    CONTROL         131,IDC_WINDOW_0_19,"Static",SS_BITMAP,245,95,8,10
+    CONTROL         131,IDC_WINDOW_0_20,"Static",SS_BITMAP,254,103,8,10
+    CONTROL         131,IDC_WINDOW_0_21,"Static",SS_BITMAP,263,112,8,10
+    CONTROL         131,IDC_WINDOW_0_22,"Static",SS_BITMAP,273,121,8,10
+    CONTROL         131,IDC_WINDOW_0_23,"Static",SS_BITMAP,282,129,8,10
+    CONTROL         131,IDC_WINDOW_0_24,"Static",SS_BITMAP,291,138,8,10
+    CONTROL         131,IDC_WINDOW_0_25,"Static",SS_BITMAP,0,146,8,10
+    CONTROL         131,IDC_WINDOW_0_26,"Static",SS_BITMAP,9,155,8,10
+    CONTROL         131,IDC_WINDOW_0_27,"Static",SS_BITMAP,19,164,8,10
+    CONTROL         131,IDC_WINDOW_0_28,"Static",SS_BITMAP,28,172,8,10
+    CONTROL         131,IDC_WINDOW_0_29,"Static",SS_BITMAP,37,181,8,10
+    CONTROL         131,IDC_WINDOW_0_30,"Static",SS_BITMAP,47,190,8,10
+    CONTROL         131,IDC_WINDOW_0_31,"Static",SS_BITMAP,56,198,8,10
+    CONTROL         131,IDC_WINDOW_0_32,"Static",SS_BITMAP,65,207,8,10
+    CONTROL         131,IDC_WINDOW_0_33,"Static",SS_BITMAP,75,215,8,10
+    CONTROL         131,IDC_WINDOW_0_34,"Static",SS_BITMAP,84,224,8,10
+    CONTROL         131,IDC_WINDOW_0_35,"Static",SS_BITMAP,93,233,8,10
+    CONTROL         131,IDC_WINDOW_0_36,"Static",SS_BITMAP,103,241,8,10
+    CONTROL         131,IDC_WINDOW_0_37,"Static",SS_BITMAP,112,250,8,10
+    CONTROL         131,IDC_WINDOW_0_38,"Static",SS_BITMAP,121,258,8,10
+    CONTROL         131,IDC_WINDOW_0_39,"Static",SS_BITMAP,131,267,8,10
+    CONTROL         131,IDC_WINDOW_0_40,"Static",SS_BITMAP,140,276,8,10
+    CONTROL         131,IDC_WINDOW_0_41,"Static",SS_BITMAP,149,0,8,10
+    CONTROL         131,IDC_WINDOW_0_42,"Static",SS_BITMAP,159,9,8,10
+    CONTROL         131,IDC_WINDOW_0_43,"Static",SS_BITMAP,168,17,8,10
+    CONTROL         131,IDC_WINDOW_0_44,"Static",SS_BITMAP,177,26,8,10
+    CONTROL         131,IDC_WINDOW_0_45,"Static",SS_BITMAP,187,34,8,10
+    CONTROL         131,IDC_WINDOW_0_46,"Static",SS_BITMAP,196,43,8,10
+    CONTROL         131,IDC_WINDOW_0_47,"Static",SS_BITMAP,205,52,8,10
+    CONTROL         131,IDC_WINDOW_0_48,"Static",SS_BITMAP,215,60,8,10
+    CONTROL         131,IDC_WINDOW_0_49,"Static",SS_BITMAP,224,69,8,10
+    CONTROL         131,IDC_WINDOW_0_50,"Static",SS_BITMAP,233,78,8,10
+    CONTROL         131,IDC_WINDOW_0_51,"Static",SS_BITMAP,243,86,8,10
+    CONTROL         131,IDC_WINDOW_0_52,"Static",SS_BITMAP,252,95,8,10
+    CONTROL         131,IDC_WINDOW_0_53,"Static",SS_BITMAP,261,103,8,10
+    CONTROL         131,IDC_WINDOW_0_54,"Static",SS_BITMAP,271,112,8,10
+    CONTROL         131,IDC_WINDOW_0_55,"Static",SS_BITMAP,280,121,8,10
+    CONTROL         131,IDC_WINDOW_0_56,"Static",SS_BITMAP,289,129,8,10
+    CONTROL         131,IDC_WINDOW_0_57,"Static",SS_BITMAP,0,138,8,10
+    CONTROL         131,IDC_WINDOW_0_58,"Static",SS_BITMAP,9,146,8,10
+    CONTROL         131,IDC_WINDOW_0_59,"Static",SS_BITMAP,19,155,8,10
+    CONTROL         131,IDC_WINDOW_0_60,"Static",SS_BITMAP,28,164,8,10
+    CONTROL         131,IDC_WINDOW_0_61,"Static",SS_BITMAP,37,172,8,10
+    CONTROL         131,IDC_WINDOW_0_62,"Static",SS_BITMAP,47,181,8,10
+    CONTROL         131,IDC_WINDOW_0_63,"Static",SS_BITMAP,56,190,8,10
+    CONTROL         131,IDC_WINDOW_0_64,"Static",SS_BITMAP,65,198,8,10
+    CONTROL         131,IDC_WINDOW_0_65,"Static",SS_BITMAP,75,207,8,10
+    CONTROL         131,IDC_WINDOW_0_66,"Static",SS_BITMAP,84,215,8,10
+    CONTROL         131,IDC_WINDOW_0_67,"Static",SS_BITMAP,93,224,8,10
+    CONTROL         131,IDC_WINDOW_0_68,"Static",SS_BITMAP,103,233,8,10
+    CONTROL         131,IDC_WINDOW_0_69,"Static",SS_BITMAP,112,241,8,10
+    CONTROL         131,IDC_WINDOW_0_70,"Static",SS_BITMAP,121,250,8,10
+    CONTROL         131,IDC_WINDOW_0_71,"Static",SS_BITMAP,131,258,8,10
+    CONTROL         131,IDC_WINDOW_0_72,"Static",SS_BITMAP,140,267,8,10
+    CONTROL         131,IDC_WINDOW_0_73,"Static",SS_BITMAP,149,276,8,10
+    CONTROL         131,IDC_WINDOW_0_74,"Static",SS_BITMAP,159,0,8,10
+    CONTROL         131,IDC_WINDOW_0_75,"Static",SS_BITMAP,168,9,8,10
+    CONTROL         131,IDC_WINDOW_0_76,"Static",SS_BITMAP,177,17,8,10
+    CONTROL         131,IDC_WINDOW_0_77,"Static",SS_BITMAP,187,26,8,10
+    CONTROL         131,IDC_WINDOW_0_78,"Static",SS_BITMAP,196,34,8,10
+    CONTROL         131,IDC_WINDOW_0_79,"Static",SS_BITMAP,205,43,8,10
+    CONTROL         131,IDC_WINDOW_0_80,"Static",SS_BITMAP,215,52,8,10
+    CONTROL         131,IDC_WINDOW_0_81,"Static",SS_BITMAP,224,60,8,10
+    CONTROL         131,IDC_WINDOW_0_82,"Static",SS_BITMAP,233,69,8,10
+    CONTROL         131,IDC_WINDOW_0_83,"Static",SS_BITMAP,243,78,8,10
+    CONTROL         131,IDC_WINDOW_0_84,"Static",SS_BITMAP,252,86,8,10
+    CONTROL         131,IDC_WINDOW_0_85,"Static",SS_BITMAP,261,95,8,10
+    CONTROL         131,IDC_WINDOW_0_86,"Static",SS_BITMAP,271,103,8,10
+    CONTROL         131,IDC_WINDOW_0_87,"Static",SS_BITMAP,280,112,8,10
+    CONTROL         131,IDC_WINDOW_0_88,"Static",SS_BITMAP,289,121,8,10
+    CONTROL         131,IDC_WINDOW_0_89,"Static",SS_BITMAP,0,129,8,10
+    CONTROL         131,IDC_WINDOW_0_90,"Static",SS_BITMAP,9,138,8,10
+    CONTROL         131,IDC_WINDOW_0_91,"Static",SS_BITMAP,19,146,8,10
+    CONTROL         131,IDC_WINDOW_0_92,"Static",SS_BITMAP,28,155,8,10
+    CONTROL         131,IDC_WINDOW_0_93,"Static",SS_BITMAP,37,164,8,10
+    CONTROL         131,IDC_WINDOW_0_94,"Static",SS_BITMAP,47,172,8,10
+    CONTROL         131,IDC_WINDOW_0_95,"Static",SS_BITMAP,56,181,8,10
+    CONTROL         131,IDC_WINDOW_0_96,"Static",SS_BITMAP,65,190,8,10
+    CONTROL         131,IDC_WINDOW_0_97,"Static",SS_BITMAP,75,198,8,10
+    CONTROL         131,IDC_WINDOW_0_98,"Static",SS_BITMAP,84,207,8,10
+    CONTROL         131,IDC_WINDOW_0_99,"Static",SS_BITMAP,93,215,8,10
+    CONTROL         131,IDC_WINDOW_0_100,"Static",SS_BITMAP,103,224,8,10
+    CONTROL         131,IDC_WINDOW_0_101,"Static",SS_BITMAP,112,233,8,10
+    CONTROL         131,IDC_WINDOW_0_102,"Static",SS_BITMAP,121,241,8,10
+    CONTROL         131,IDC_WINDOW_0_103,"Static",SS_BITMAP,131,250,8,10
+    CONTROL         131,IDC_WINDOW_0_104,"Static",SS_BITMAP,140,258,8,10
+    CONTROL         131,IDC_WINDOW_0_105,"Static",SS_BITMAP,149,267,8,10
+    CONTROL         131,IDC_WINDOW_0_106,"Static",SS_BITMAP,159,276,8,10
+    CONTROL         131,IDC_WINDOW_0_107,"Static",SS_BITMAP,168,0,8,10
+    CONTROL         131,IDC_WINDOW_0_108,"Static",SS_BITMAP,177,9,8,10
+    CONTROL         131,IDC_WINDOW_0_109,"Static",SS_BITMAP,187,17,8,10
+    CONTROL         131,IDC_WINDOW_0_110,"Static",SS_BITMAP,196,26,8,10
+    CONTROL         131,IDC_WINDOW_0_111,"Static",SS_BITMAP,205,34,8,10
+    CONTROL         131,IDC_WINDOW_0_112,"Static",SS_BITMAP,215,43,8,10
+    CONTROL         131,IDC_WINDOW_0_113,"Static",SS_BITMAP,224,52,8,10
+    CONTROL         131,IDC_WINDOW_0_114,"Static",SS_BITMAP,233,60,8,10
+    CONTROL         131,IDC_WINDOW_0_115,"Static",SS_BITMAP,243,69,8,10
+    CONTROL         131,IDC_WINDOW_0_116,"Static",SS_BITMAP,252,78,8,10
+    CONTROL         131,IDC_WINDOW_0_117,"Static",SS_BITMAP,261,86,8,10
+    CONTROL         131,IDC_WINDOW_0_118,"Static",SS_BITMAP,271,95,8,10
+    CONTROL         131,IDC_WINDOW_0_119,"Static",SS_BITMAP,280,103,8,10
+    CONTROL         131,IDC_WINDOW_0_120,"Static",SS_BITMAP,289,112,8,10
+    CONTROL         131,IDC_WINDOW_0_121,"Static",SS_BITMAP,0,121,8,10
+    CONTROL         131,IDC_WINDOW_0_122,"Static",SS_BITMAP,9,129,8,10
+    CONTROL         131,IDC_WINDOW_0_123,"Static",SS_BITMAP,19,138,8,10
+    CONTROL         131,IDC_WINDOW_0_124,"Static",SS_BITMAP,28,146,8,10
+    CONTROL         131,IDC_WINDOW_0_125,"Static",SS_BITMAP,37,155,8,10
+    CONTROL         131,IDC_WINDOW_0_126,"Static",SS_BITMAP,149,267,8,10
+    CONTROL         131,IDC_WINDOW_0_127,"Static",SS_BITMAP,159,276,8,10
+    CONTROL         131,IDC_WINDOW_0_128,"Static",SS_BITMAP,168,0,8,10
+    CONTROL         131,IDC_WINDOW_0_129,"Static",SS_BITMAP,177,9,8,10
+    CONTROL         131,IDC_WINDOW_0_130,"Static",SS_BITMAP,187,17,8,10
+    CONTROL         131,IDC_WINDOW_0_131,"Static",SS_BITMAP,196,26,8,10
+    CONTROL         131,IDC_WINDOW_0_132,"Static",SS_BITMAP,205,34,8,10
+    CONTROL         131,IDC_WINDOW_0_133,"Static",SS_BITMAP,215,43,8,10
+    CONTROL         131,IDC_WINDOW_0_134,"Static",SS_BITMAP,224,52,8,10
+    CONTROL         131,IDC_WINDOW_0_135,"Static",SS_BITMAP,233,60,8,10
+    CONTROL         131,IDC_WINDOW_0_136,"Static",SS_BITMAP,243,69,8,10
+    CONTROL         131,IDC_WINDOW_0_137,"Static",SS_BITMAP,252,78,8,10
+    CONTROL         131,IDC_WINDOW_0_138,"Static",SS_BITMAP,261,86,8,10
+    CONTROL         131,IDC_WINDOW_0_139,"Static",SS_BITMAP,271,95,8,10
+    CONTROL         131,IDC_WINDOW_0_140,"Static",SS_BITMAP,280,103,8,10
+    CONTROL         131,IDC_WINDOW_0_141,"Static",SS_BITMAP,289,112,8,10
+    CONTROL         131,IDC_WINDOW_0_142,"Static",SS_BITMAP,0,121,8,10
+    CONTROL         131,IDC_WINDOW_0_143,"Static",SS_BITMAP,9,129,8,10
+    CONTROL         129,IDC_HOUSE,"Static",SS_BITMAP,28,0,185,190
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_HOUSE               BITMAP  DISCARDABLE     "res\\HOUSE.bmp"
+IDB_WINDOW              BITMAP  DISCARDABLE     "res\\WINDOW.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_BM_PLAY_DIALOG, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 285
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    MENUITEM "Open...",                     ID_OPENMOVIE
+    MENUITEM "Directory Mode",              ID_PLAYDIRECTORY
+    MENUITEM "Repeat",                      ID_REPEAT
+    MENUITEM "Full Screen",                 ID_FULLSCREEN
+    MENUITEM "STOP",                        ID_STOP, HELP
+END
+
+#endif    // Englisch (USA) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\bm_play.rc2"  // Nicht mit Microsoft Visual C++ bearbeitete Ressourcen
+#include "afxres.rc"         // Standardkomponenten
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
